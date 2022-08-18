@@ -1,0 +1,672 @@
+{
+	"mapwidth": "1000",
+	"mapheight": "600",
+	"categories": [
+		{
+			"id": "ciencias",
+			"title": "Ciencias",
+			"color": "#001C4D",
+			"show": "false"
+		},
+		{
+			"id": "tecnologia",
+			"title": "Tecnología",
+			"color": "#001C4D",
+			"show": "false"
+		},
+		{
+			"id": "integrada",
+			"title": "Área integrada",
+			"color": "#001C4D",
+			"show": "false"
+		}
+	],
+	"levels": [
+
+		
+		{
+			"id": "ground-floor",
+			"title": "Nivel 1",
+			"map": "images/mall/tec_nivel1.svg",
+			"minimap": "images/mall/tec_nivel1.svg",
+			"show": "true",
+			"locations": [
+               	
+                 {
+					"id": "Aplicaciones ambientales y agrícolas",
+					"title": "Aplicaciones ambientales y agrícolas",
+					"description": "<p>Ubicación: <strong>T-107</strong></p>",
+                     	"category": "tecnologia",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                    "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/dce_img_TEC_fotosportal_pr_2022_4-1024x575.jpg",
+                    "link":"https://tec.url.edu.gt/aplicaciones-ambientales-y-agricolas/",
+					"x": "0.6125",
+					"y": "0.8839",
+					"zoom": "3"
+				}, 
+                    {
+					"id": "Ciencias ambientales y agrícolas",
+					"title": "Ciencias químicas con enfoque ambiental y agrícola",
+					"description": "<p>Ubicación: <strong>T-104</strong></p>",
+                     	"category": "ciencias",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                    "image":"images/mall/labs/cienciasQuimicas.jpg",
+                    "link":"https://tec.url.edu.gt/aplicaciones-ambientales-y-agricolas/",
+					"x": "0.4883",
+					"y": "0.8651",
+					"zoom": "3"
+				},
+                  {
+					"id": "Ciencias biológicas",
+					"title": "Ciencias biológicas",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T-109</strong></p>",
+                     	"category": "ciencias",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                    "image":"images/mall/labs/cienciasBiologicas.jpg",
+                    "link":"https://tec.url.edu.gt/aplicaciones-ambientales-y-agricolas/",
+					"x": "0.6946",
+					"y": "0.8690",
+					"zoom": "3"
+                      
+				},	
+                {
+					"id": "Análisis químico instrumental",
+					"title": "Análisis químico instrumental",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T-110A</strong></p>",
+					"category": "ciencias",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                    "image":"images/mall/labs/analisisQuimicoInstrumental.jpg",
+                    "link":"https://tec.url.edu.gt/analisis-quimico-instrumental/",
+					"x": "0.4688",
+					"y": "0.7292",
+					"zoom": "3"
+				},
+				{
+					"id": "Química específica",
+					"title": "Química específica",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T-113</strong></p>",
+					"category": "ciencias",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                    "link":"https://tec.url.edu.gt/quimica-especifica-t113/",
+                    "image":"images/mall/labs/analiticaAmbiental.jpg",
+					"x": "0.1763",
+					"y": "0.5790",
+					"zoom": "3"
+				},
+				{
+					"id": "Química general",
+					"title": "Química general",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T117 y T118</strong></p>",
+					"category": "ciencias",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                     "link":"https://tec.url.edu.gt/quimica-general-t-117-y-t-118/",
+         "image":"images/mall/labs/quimicaGeneral.jpg",
+					"x": "0.4652",
+					"y": "0.5893",
+					"zoom": "3"
+				},
+				{
+					"id": "Química específica 2",
+					"title": "Química específica",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T116</strong></p>",
+					"category": "ciencias",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+					"link": "https://tec.url.edu.gt/quimica-especifica-t116/",
+                    "image":"images/mall/labs/quimicaEspecificaO.jpg",
+
+					"x": "0.2768",
+					"y": "0.5804",
+					"zoom": "3"
+				},
+				{
+					"id": "Microbiología",
+					"title": "Microbiología",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T110A</strong></p>",
+					"category": "tecnologia",
+                    "thumbnail":"images/mall/iconoTecnologia.svg",
+                                        "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/IMG_2268-1-1024x683.jpg",
+
+					"link":"https://tec.url.edu.gt/microbiologia/",
+					"x": "0.5991",
+					"y": "0.7411"
+				},
+				{
+					"id": "Operaciones unitarias",
+					"title": "Operaciones unitarias",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T119</strong></p>",
+					"category": "tecnologia",                   
+                    "thumbnail":"images/mall/iconoTecnologia.svg",
+                    "image":"images/mall/labs/operacionesUnitarias.jpg",
+                    "link":"https://tec.url.edu.gt/operaciones-unitarias/",
+					"x": "0.3563",
+					"y": "0.2619"
+				},
+				{
+					"id": "Soldadura",
+					"title": "Soldadura",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T120A</strong></p>",
+					"category": "tecnologia",
+                    "thumbnail":"images/mall/iconoTecnologia.svg",
+                    "image":"images/mall/labs/soldadura.jpg",
+
+                      "link":"https://tec.url.edu.gt/soldadura/",
+					"x": "0.4348",
+					"y": "0.2589"
+				},
+				{
+					"id": "Herramientas y Mecánica de bancos",
+					"title": "Herramientas y mecánica de bancos",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T120B</strong></p>",
+					"category": "tecnologia",
+                    "thumbnail":"images/mall/iconoTecnologia.svg",
+                                        "image":"images/mall/labs/bancos.jpg",
+
+                    "link":"https://tec.url.edu.gt/herramientas-y-mecanica-de-bancos/",
+					"x": "0.4938",
+					"y": "0.2560"
+				},
+				{
+				    "id": "Resistencia de materiales",
+					"title": "Resistencia de materiales",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T120C</strong></p>",
+					"category": "tecnologia",
+                    "thumbnail":"images/mall/iconoTecnologia.svg",
+                     "image":"images/mall/labs/resistenciaDeMateriales.jpg",
+                     "link":"https://tec.url.edu.gt/resistencia-de-materiales/",
+					"x": "0.4955",
+					"y": "0.1042"
+				},  
+				{
+				    "id": "Planta piloto de alimentos",
+					"title": "Planta piloto de alimentos",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T121</strong></p>",
+					"category": "integrada",
+                    "thumbnail":"images/mall/iconoIntegral.svg",
+                                         "image":"images/mall/labs/plantaPiloto.jpg",
+
+                    "link":"https://tec.url.edu.gt/planta-piloto-de-alimentos/",
+					"x": "0.5705",
+					"y": "0.2381"
+				},
+				{
+				    "id": "Autotrónica",
+					"title": "Autotrónica",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T122A Y T122B</strong></p>",
+					"category": "tecnologia",
+                        "thumbnail":"images/mall/iconoTecnologia.svg",
+                     "image":"images/mall/labs/autotronica.jpg",
+                     "link":"https://tec.url.edu.gt/autotronica/",
+					"x": "0.7167",
+					"y": "0.2224"
+				},
+				{
+				    "id": "Refrigeración y aire acondicionado",
+					"title": "Refrigeración y aire acondicionado",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T123</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                    "image":"images/mall/labs/refrigeracion.jpg",
+                    "link":"https://tec.url.edu.gt/refrigeracion-y-aire-acondicionado/",
+					"x": "0.6732",
+					"y": "0.3333"
+				}
+                ,
+				{
+				    "id": "Hidráulica y Neumática",
+					"title": "Hidráulica y Neumática",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T124</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                     "image":"images/mall/labs/hidraulica.jpg",
+                     "link":"https://tec.url.edu.gt/hidraulica-y-neumatica/",
+					"x": "0.7446",
+					"y": "0.3244"
+				}
+                ,
+				{
+				    "id": "Control y Automatización de procesos",
+					"title": "Control y Automatición de procesos",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T125</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                    "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/18022022-DSC_3171-1024x685.jpg",
+                     "link":"https://tec.url.edu.gt/control-y-automatizacion-de-procesos/",
+					"x": "0.7455",
+					"y": "0.4881"
+				},
+				{
+				    "id": "Manufactura integrada por computadora",
+					"title": "Manufactura Integrada por Computadora",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T127</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                       "image":"images/mall/labs/manufactura.jpg",
+                    "link":"https://tec.url.edu.gt/manufactura-integrada-por-computadora/",
+					"x": "0.7116",
+					"y": "0.5655"
+				},
+				{
+				    "id": "Sala de vinculación",
+					"title": "Sala de vinculación",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T101</strong></p>",
+					"category": "integrada",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                    "image":"images/mall/labs/salaVinculacion.jpg",
+                    "link":"https://tec.url.edu.gt/vinculacion/",
+					"x": "0.2482",
+					"y": "0.8244"
+				}
+                ,
+				{
+				    "id": "Computación y comparación balística",
+					"title": "Computación y comparación balística",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T126</strong></p>",
+					"category": "integrada",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                     "image":"images/mall/labs/balistica.jpg",
+                    "link":"https://tec.url.edu.gt/computacion-y-comparacion-balistica/",
+					"x": "0.6875",
+					"y": "0.4702"
+				}
+                ,
+				{
+				    "id": "Biotecnología",
+					"title": "Biotecnología",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>Edificio C</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                      "image":"images/mall/labs/biotecnologia.jpg",
+                    "link":"https://tec.url.edu.gt/biotecnologia/",
+					"x": "0.2062",
+					"y": "0.3393"
+				},
+				{
+				    "id": "Alimentos y bebidas",
+					"title": "Alimentos y bebidas",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>C101</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                      "image":"images/mall/labs/alimentosYbebidas.jpg",
+                    "link":"https://tec.url.edu.gt/biotecnologia/",
+					"x": "0.2420",
+					"y": "0.2024"
+				},
+                {
+				    "id": "CTA",
+					"title": "CTA",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>F103</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                      "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/IMG_7310-1024x768.jpg",
+                    "link":"https://tec.url.edu.gt/centro-de-tecnologias-alternativas-cta/",
+					"x": "0.3098",
+					"y": "0.0952"
+				},
+                {
+				    "id": "Inmunología y Microbiología médica",
+					"title": "Inmunología y Microbiología médica",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T103</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                                          "image":"images/mall/labs/inmunologia.jpg",
+
+                    "link":"https://tec.url.edu.gt/inmunologia/",                    
+					"x": "0.4323",
+					"y": "0.8707"
+				}
+			]
+		},
+		{
+			"id": "first-floor",
+			"title": "Nivel 2",
+			"map": "images/mall/tec_nivel2_of.svg",
+			"minimap": "images/mall/tec_nivel2_of.svg",
+			"locations": [
+                	{
+					"id": "Computo",
+					"title": "Computo",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T203 y T204</strong></p>",
+					"category": "tecnologia",
+                         "thumbnail":"images/mall/iconoTecnologia.svg",
+                         "image":"https://tec.url.edu.gt/computo-t-203-y-t-204/",
+                         "link":"https://tec.url.edu.gt/computo-t-203-y-t-204/",
+					"x": "0.4663",
+					"y": "0.7708",
+					"zoom": "3"
+				},
+                {
+					"id": "Analítica ambiental",
+					"title": "Analítica ambiental",
+					"description": "<p>Ubicación: <strong>T217D</strong></p>",
+                     	"category": "tecnologia",
+                    "thumbnail":"images/mall/iconoCiencias.svg",
+                    "image":"images/mall/labs/analiticaAmbiental2.jpg",
+                    "link":"https://tec.url.edu.gt/aplicaciones-ambientales-y-agricolas/",
+					"x": "0.4281",
+					"y": "0.1419",
+					"zoom": "3"
+				},
+				{
+					"id": "Ingeniería de métodos",
+					"title": "Ingenería de métodos",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T206B</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                    "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/IMG_2122-1024x493.jpg",
+                     "link":"https://tec.url.edu.gt/ingenieria-de-metodos/",
+					"x": "0.4741",
+					"x": "0.4741",
+					"y": "0.3155",
+					"zoom": "3"
+				},
+                                                                                                                    {
+					"id": "Física",
+					"title": "Física",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T207 y T208</strong></p>",
+					"category": "ciencias",
+                     "thumbnail":"images/mall/iconoCiencias.svg",
+                                            "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/IMG_2170-926x1024.jpg",
+                        "link":"https://tec.url.edu.gt/fisica",
+					"x": "0.6170",
+					"y": "0.2708",
+					"zoom": "3"
+				},
+				{
+					"id": "Potencia y energías renovables",
+					"title": "Potencia y energías renovables",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T209</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                          "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/18022022-DSC_2970-1024x686.jpg",
+					"link": "https://tec.url.edu.gt/potencia-electrica-y-energias-renovables/",
+					"x": "0.6848",
+					"y": "0.2917",
+					"zoom": "3"
+				},
+				{
+					"id": "Electrónica",
+					"title": "Electrónica",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T210</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                    "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-18-at-9.26.01-AM.jpeg",
+					"link": "https://tec.url.edu.gt/electronica/",
+					"x": "0.7330",
+					"y": "0.3065"
+				},
+				{
+					"id": "Radiocomunicaciones",
+					"title": "Radiocomunicaciones",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T211A</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                                        "image":"images/mall/labs/redesprivadas_211.jpg",
+
+                    "link": "https://tec.url.edu.gt/redes-privadas-211a/",
+					"x": "0.7312",
+					"y": "0.5446"
+				},
+				{
+					"id": "Redes privadas2",
+					"title": "Redes privadas",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T211B</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                     "image":"images/mall/labs/radiocomunicaciones.jpg",
+                     "link": "https://tec.url.edu.gt/radiocomunicaciones/",
+
+					"x": "0.7330",
+					"y": "0.4494"
+				},
+				{
+					"id": "Hardware",
+					"title": "Hardware",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T212</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                     "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/IMG_2117-1-scaled.jpg",
+                    "link": "https://tec.url.edu.gt/hardware/",
+
+					"x": "0.6634",
+					"y": "0.4345"
+				},
+				{
+				    "id": "Software",
+					"title": "Software",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T213</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                      "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-18-at-8.34.20-AM-1024x768.jpeg",
+                     "link": "https://tec.url.edu.gt/software/",
+					"x": "0.6580",
+					"y": "0.5863"
+				},
+				{
+				    "id": "Redes privadas",
+					"title": "Redes privadas",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T214</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                                          "image":"images/mall/labs/redesPrivadas_214.jpeg",
+
+                    "link": "https://tec.url.edu.gt/redes-privadas-214/",
+
+					"x": "0.7205",
+					"y": "0.6280"
+				},
+				{
+				    "id": "Telecomunicaciones",
+					"title": "Telecomunicaciones",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T216</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                       "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/18022022-DSC_3051-1024x686.jpg",
+                    "link": "https://tec.url.edu.gt/telecomunicaciones/",
+
+					"x": "0.4205",
+					"y": "0.3185"
+				},
+				{
+				    "id": "Suelos",
+					"title": "Suelos",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T217A</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                        "image":"images/mall/labs/suelos.jpg",
+                       "link": "https://tec.url.edu.gt/suelos/",
+					"x": "0.4723",
+					"y": "0.1369"
+				}
+                ,
+				{
+				    "id": "Asfaltos",
+					"title": "Asfaltos",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T217B</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                      "image":"https://tec.url.edu.gt/wp-content/uploads/2022/04/18022022-DSC_3058-1024x685.jpg",
+                       "link": "https://tec.url.edu.gt/asfaltos/",
+					"x": "0.4223",
+					"y": "0.1012"
+				}
+                ,
+				{
+				    "id": "Topografía",
+					"title": "Topografía",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T217C</strong></p>",
+					"category": "tecnologia",
+                     "thumbnail":"images/mall/iconoTecnologia.svg",
+                      "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/18022022-DSC_3072-1024x685.jpg",
+                    "link": "https://tec.url.edu.gt/topografia/",
+
+					"x": "0.4205",
+					"y": "0.2054"
+				},
+				{
+				    "id": "Fablab",
+					"title": "Fablab",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T206A</strong></p>",
+					"category": "integrada",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                                          "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/WhatsApp-Image-2022-01-12-at-8.18.31-AM-1024x414.jpeg",
+
+                         "link": "https://tec.url.edu.gt/fablab/",
+
+					"x": "0.5295",
+					"y": "0.2887"
+				},
+				{
+				    "id": "Multitec",
+					"title": "Multitec",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T206A</strong></p>",
+					"category": "integrada",
+                     "thumbnail":"images/mall/iconoIntegral.svg",
+                       "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/IMG_2105-1024x990.jpg",
+                         "link": "https://tec.url.edu.gt/multitec/",
+					"x": "0.5598",
+					"y": "0.2768"
+				},
+				{
+				    "id": "Fisiología humana",
+					"title": "Fisiología humana",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T201</strong></p>",
+					"category": "ciencias",
+                     "thumbnail":"images/mall/iconoCiencias.svg",
+                     "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/23022022-DSC_0175-1024x686.jpg",
+                    "link": "https://tec.url.edu.gt/fisiologia-humana/",
+
+					"x": "0.6152",
+					"y": "0.7589"
+				},
+				{
+				    "id": "Anatomía humana",
+					"title": "Anatomía humana",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T202</strong></p>",
+					"category": "ciencias",
+                     "thumbnail":"images/mall/iconoCiencias.svg",
+                     "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/IMG_2385-1-1024x683.jpg",
+                     "link": "https://tec.url.edu.gt/anatomia-humana/",
+					"x": "0.5598",
+					"y": "0.7619"
+				}
+			]
+		}
+        ,
+		{
+			"id": "quinto",
+			"title": "Nivel 5",
+			"map": "images/mall/nivel5_of.svg",
+			"minimap": "images/mall/nivel5_of.svg",
+			"locations": [
+                	{
+					"id": "Química CRIMFOR",
+					"title": "Química CRIMFOR",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T501</strong></p>",
+					"category": "tecnologia",
+                         "thumbnail":"images/mall/iconoTecnologia.svg",
+                                             "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/23022022-DSC_0032-1024x685.jpg",
+
+                         "link":"https://tec.url.edu.gt/quimica-crimfor/",
+					"x": "0.8328",
+					"y": "0.5619",
+					"zoom": "3"
+				},
+                   	{
+					"id": "Escena del crimen",
+					"title": "Escena del crimen",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T502</strong></p>",
+					"category": "tecnologia",
+                         "thumbnail":"images/mall/iconoTecnologia.svg",
+                                                                     "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/23022022-DSC_0109-1024x685.jpg",
+
+                         "link":"https://tec.url.edu.gt/escena-del-crimen/",
+					"x": "0.7027",
+					"y": "0.5619",
+					"zoom": "3"
+				}
+                ,
+                   	{
+					"id": "Identificación personal y física forense",
+					"title": "Identificación personal y física forense",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T503</strong></p>",
+					"category": "tecnologia",
+                         "thumbnail":"images/mall/iconoTecnologia.svg",
+                            "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/23022022-DSC_0131-1024x686.jpg",
+
+                         "link":"https://tec.url.edu.gt/identificacion-personal/",
+					"x": "0.6068",
+					"y": "0.5553",
+					"zoom": "3"
+				} ,
+                   	{
+					"id": "Innovation Lab",
+					"title": "Innovation Lab",
+					"about": "Lorem ipsum",
+					"description": "<p>Ubicación: <strong>T507</strong></p>",
+					"category": "tecnologia",
+                         "thumbnail":"images/mall/iconoTecnologia.svg",
+                        "image":"https://tec.url.edu.gt/wp-content/uploads/2022/03/DCE_img_faceconomicas_FotosInnovationLab_JP_2022_9-1024x668.jpg",
+
+                         "link":"https://tec.url.edu.gt/innovation-lab/",
+					"x": "0.1403",
+					"y": "0.5881",
+					"zoom": "3"
+				}
+				
+			]
+		},
+                {
+            "id": "prueba",
+			"title": "Nivel 1 3d",
+			"map": "images/mall/tec_nivel1_of.png",
+			"minimap": "images/mall/tec_nivel1_of.png",
+			"locations": [
+            
+          
+            ]
+        }
+	]
+}
