@@ -509,7 +509,7 @@ a.mapplic-zoomout-button {
 
 .mapplic-list-thumbnail {
 	border-radius: 2px;
-	float: left;
+	float: inherit;
 	margin-right: 10px;
     width: 10%;
 }
