@@ -346,7 +346,7 @@
 					"description": "<p>Ubicación: <strong>T203 y T204</strong></p>",
 					"category": "tecnologia",
                          "thumbnail":"images/mall/iconoTecnologia.svg",
-                         "image":"https://tec.url.edu.gt/computo-t-203-y-t-204/",
+                         "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/18022022-DSC_2975-1024x685.jpg",
                          "link":"https://tec.url.edu.gt/computo-t-203-y-t-204/",
 					"x": "0.4663",
 					"y": "0.7708",
@@ -687,8 +687,8 @@
 					"zoom": "3"
 				},
 				{
-					"id": "Química específica 3d",
-					"title": "Química específica",
+					"id": "Química específica 3d t113",
+					"title": "Química específica T113",
 					"description": "<p>Ubicación: <strong>T-113</strong></p>",
 					"category": "ciencias 3d",
                     "thumbnail":"images/mall/iconoCiencias.svg",
@@ -711,8 +711,8 @@
 					"zoom": "3"
 				},
 				{
-					"id": "Química específica 3d",
-					"title": "Química específica",
+					"id": "Química específica 3d t116",
+					"title": "Química específica T116",
 					"description": "<p>Ubicación: <strong>T116</strong></p>",
 					"category": "ciencias 3d",
                     "thumbnail":"images/mall/iconoCiencias.svg",
@@ -777,8 +777,8 @@
                     "thumbnail":"images/mall/iconoTecnologia.svg",
                      "image":"images/mall/labs/resistenciaDeMateriales.jpg",
                      "link":"https://tec.url.edu.gt/resistencia-de-materiales/",
-					"x": "0.4391",
-					"y": "0.3671"
+					"x": "0.4514",
+					"y": "0.3763"
 				},  
 				{
 				    "id": "Planta piloto de alimentos 3d",
@@ -933,7 +933,7 @@
 					"description": "<p>Ubicación: <strong>T203 y T204</strong></p>",
 					"category": "tecnologia 3d",
                          "thumbnail":"images/mall/iconoTecnologia.svg",
-                         "image":"https://tec.url.edu.gt/computo-t-203-y-t-204/",
+                         "image":"https://tec.url.edu.gt/wp-content/uploads/2022/02/18022022-DSC_2975-1024x685.jpg",
                          "link":"https://tec.url.edu.gt/computo-t-203-y-t-204/",
 					"x": "0.5382",
 					"y": "0.5737",
@@ -1010,7 +1010,7 @@
 					"y": "0.4095"
 				},
 				{
-					"id": "Redes privadas 3d",
+					"id": "Redes privadas 3d t211",
 					"title": "Redes privadas",
 					"description": "<p>Ubicación: <strong>T211B</strong></p>",
 					"category": "tecnologia 3d",
@@ -1033,7 +1033,7 @@
 					"y": "0.4119"
 				},
 				{
-				    "id": "Software 3d",
+				    "id": "Software 3d t213",
 					"title": "Software",
 					"description": "<p>Ubicación: <strong>T213</strong></p>",
 					"category": "tecnologia 3d",
