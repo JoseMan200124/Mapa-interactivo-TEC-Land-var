@@ -65,6 +65,7 @@ text{
                         <div id="mapplic2"></div>
 
                         <div id="mapplic"></div>
+
                     </div>
 
                 </section>
@@ -114,13 +115,21 @@ text{
  <!--=====================Agregar clase a todas las imagenes para lazy load===========================-->
  <script type="text/javascript">   
 'use strict'
+
 window.addEventListener('load',function(){
 var imagenes = document.getElementsByTagName('img');
-console.log(imagenes); 
+//Agregar texto diferente a los botones
+var botones = document.querySelectorAll('mapplic-tooltip-link');
+//Cambiar texto de los botones de mapplic
+for(var i = 0; i<botones.length;i++){
+    botones[i].innerHTML = "ver más";
+    console.log(botones[i]);
+}
+//Agregar clase a las imagenes para carga rápida
 var valor; 
+
 for(valor in imagenes){
     imagenes[valor].attr("loading","lazy");
-
     imagenes[valor].classList.add("lazyload");
     console.log(valor); 
 

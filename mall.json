@@ -49,6 +49,7 @@
 			"title": "Nivel 1 3d",
 			"map": "images/mall/tec_nivel1_of.png",
 			"minimap": "images/mall/tec_nivel1_of.png",
+			"show": "true",
 			"locations": [
 				{
 					"id": "Aplicaciones ambientales y agrícolas 3d",
@@ -631,7 +632,6 @@
 			"title": "Nivel 1",
 			"map": "images/mall/tec_nivel1.svg",
 			"minimap": "images/mall/tec_nivel1.svg",
-			"show": "true",
 			"locations": [
                	
                  {
